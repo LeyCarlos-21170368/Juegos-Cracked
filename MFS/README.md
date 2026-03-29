@@ -3,15 +3,11 @@ https://elenemigos.com/app/microsoft-flight-simulator-2020-40th-anniversary-edit
 
 INTRUCCCIONES PARA JUGAR ONLINE (OPCIONAL)
 
-Una vez descomprimido el archivo .rar
-
-Iniciar el archivo 'GDK_Helper.bat' como Administrador (Se encuentra en la carpeta con el juego)
-
-Habilitar el modo desarrollador
-
-Instalar el juego
-
-Deshabilitar el modo desarrollador
+1. Una vez descomprimido el archivo .rar
+2. Iniciar el archivo 'GDK_Helper.bat' como Administrador (Se encuentra en la carpeta con el juego)
+3. Habilitar el modo desarrollador
+4. Instalar el juego
+5. Deshabilitar el modo desarrollador
 
 Listo, iniciar el juego, eso solo es necesario ejecutarlo la primera vez de juego
 
