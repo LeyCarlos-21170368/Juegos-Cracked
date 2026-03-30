@@ -1,7 +1,8 @@
 Link de descarga: 
 https://elenemigos.com/app/microsoft-flight-simulator-2020-40th-anniversary-edition-descargar-gratis/272
 
-El archivo descargado .rar puede ser encontrado en la seccion de 'Releases' de este mismo repositorio
+Si bien se agrega el link a la pagina, el archivo  .rar ya puede ser encontrado en la seccion de 'Releases' de este mismo repositorio
+Sin necesidad de pasar por anuncios u otras páginas 
 
 INTRUCCCIONES PARA JUGAR ONLINE (OPCIONAL)
 
